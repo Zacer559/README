@@ -3,6 +3,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zacer559&layout=compact&theme=tokyonight&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
+Hello, 
+I am IT student at PJATK in Warsaw at Programming Business Application specialization. 
 
 - 🔭 I’m currently working on my Server Management application. 
 - 🌱 I’m currently learning Java, JavaScript and C#. 
