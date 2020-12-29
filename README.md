@@ -21,7 +21,7 @@
 <br/>
 
 <p>
-Hello, I am IT student at PJATK in Warsaw at Programming Business Application specialization. 🚀  I am from Poland. :poland:  
+I am IT student at PJATK in Warsaw at Programming Business Application specialization 🚀 and I am from Poland.
 <br/>
 Always working on some project or learning something new!
 <br/>  
