@@ -48,6 +48,7 @@ Want to become a full-time employee 💸 and an Open Source Contributor ❤️.
 
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
 ![C Sharp](https://img.shields.io/badge/-C_Sharp-black?style=flat-square&logo=c%23)
+![Java](https://img.shields.io/badge/-Android-black?style=flat-square&logo=android)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Transact-SQL](https://img.shields.io/badge/-TransactSQL-black?style=flat-square&logo=microsoft-sql-server)
