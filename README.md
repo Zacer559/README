@@ -25,13 +25,13 @@ Hello, I am IT student at PJATK in Warsaw at Programming Business Application sp
 <br/>
 Always working on some project or learning something new!
 <br/>  
-Things I am currently experimenting with : Android developing in Java, Javascript game, ...
+Things I am currently experimenting with : Android developing in Java, JavaScript game, . . .
 <br/>
 Want to become a full-time employee 💸 and an Open Source Contributor ❤️.
 </p>
 
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" />
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/Z543HuFdQAmkg/giphy.gif" />
   
 ### ✨ Quick Facts
 
