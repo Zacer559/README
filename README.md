@@ -8,11 +8,11 @@
 
 
 <a href="https://twitter.com/super_widower">
-  <img align="left" alt="Aman Ansari | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Aman Ansari | Twitter" width="22px" src="https://seeklogo.com/images/T/twitter-logo-A84FE9258E-seeklogo.com.png" />
 </a>
 
 <a href="mailto:zacer559@gmail.com">
-  <img align="left" alt="Zacer559's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img align="left" alt="Zacer559's Email" width="22px" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" />
 </a>
 
 
@@ -61,9 +61,9 @@ Want to become a full-time employee 💸 and an Open Source Contributor ❤️.
 ![Gitlab](https://img.shields.io/badge/-Gitlab-black?style=flat-square&logo=gitlab)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zacer559)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zacer559&layout=compact&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
-[![Zacer559's github stats](https://github-readme-stats.vercel.app/api?username=Zacer559&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Zacer559's github stats](https://github-readme-stats.vercel.app/api?username=Zacer559&count_private=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 👣 Next Steps
 
