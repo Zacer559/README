@@ -62,7 +62,7 @@ Want to become a full-time employee 💸 and an Open Source Contributor ❤️.
 ![Gitlab](https://img.shields.io/badge/-Gitlab-black?style=flat-square&logo=gitlab)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zacer559&layout=compact&theme=nightowl&amount=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zacer559&layout=compact&theme=nightowl&amount=7)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 [![Zacer559's github stats](https://github-readme-stats.vercel.app/api?username=Zacer559&count_private=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
